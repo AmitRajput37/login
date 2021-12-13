@@ -1,0 +1,15 @@
+.input-card{
+    display: flex;
+    width: 25%;
+    /* margin-left: 36%; */
+    margin: auto;
+    margin-top: 50px;
+}
+
+.input-card mat-card{
+    padding: 0px;
+}
+
+.login-form{
+    padding: 20px;
+}
